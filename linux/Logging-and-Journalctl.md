@@ -50,10 +50,14 @@ Logging supports both security and compliance.
 
 sudo journalctl -p err -b
 
+![Error Logs](../journalctl-perr-b.png)
+
 Shows errors since boot.
 
 Critical Logs
 sudo journalctl -p crit
+
+![Critical Errors](../jounalctl-pcrit.png)
 
 Shows critical events.
 
