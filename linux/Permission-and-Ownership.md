@@ -34,10 +34,11 @@ Permissions apply to:
 
 `chmod` means:
 
-```bash
 change mode
 Example: chmod 777
 chmod 777 public.txt
+
+![chmod 777](../777publictxt.png)
 
 This gives everyone permission to:
 
@@ -54,6 +55,8 @@ unauthorized users may access sensitive data.
 Example: chmod 600
 chmod 600 secret.txt
 
+![chmod 600](../600secter.txt.png)
+
 This allows only the owner to:
 
 read
@@ -68,7 +71,10 @@ Security Benefit
 reduce unauthorized access;
 protect confidential data;
 improve system security.
-chown
+
+---
+
+# chown
 
 chown means:
 
