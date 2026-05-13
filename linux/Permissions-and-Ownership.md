@@ -1,5 +1,3 @@
----
-
 # Least Privilege Principle
 
 The principle of least privilege means that users should only receive the minimum level of access necessary to perform their tasks.
