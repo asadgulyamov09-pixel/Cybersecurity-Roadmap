@@ -50,7 +50,7 @@ Logging supports both security and compliance.
 
 sudo journalctl -p err -b
 
-![Error Logs](../journalctl-perr-b.png)
+![Error Logs](../screens/journalctl-perr-b.png)
 
 Shows errors since boot.
 
