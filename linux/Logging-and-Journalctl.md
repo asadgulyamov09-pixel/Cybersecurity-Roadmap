@@ -57,7 +57,7 @@ Shows errors since boot.
 Critical Logs
 sudo journalctl -p crit
 
-![Critical Errors](../jounalctl-pcrit.png)
+![Critical Errors](../screens/jounalctl-pcrit.png)
 
 Shows critical events.
 
