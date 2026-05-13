@@ -28,7 +28,7 @@ who can access what
 - Displays the current user.
 
 "groups"
-![groups](../screens/groups/png)
+![groups](../screens/groups.png)
 Displays the groups assigned to the current user.
 
 # Risky Permissions
