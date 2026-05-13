@@ -24,11 +24,11 @@ who can access what
 
 # Users and Groups
 "whoami"
-
+![whoami](../screens/whoami.png)
 - Displays the current user.
 
 "groups"
-
+![groups](../screens/groups/png)
 Displays the groups assigned to the current user.
 
 # Risky Permissions
