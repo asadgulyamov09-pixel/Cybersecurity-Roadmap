@@ -13,35 +13,32 @@ This helps reduce:
 # Access Control
 
 Access control determines:
-
 who can access what
 
-In Linux, access control is implemented through:
+# In Linux, access control is implemented through:
 
-permissions;
-ownership;
-users;
-groups.
+- permissions;
+- ownership;
+- users;
+- groups.
 
-Users and Groups
+# Users and Groups
 whoami
-whoami
 
-Displays the current user.
+- Displays the current user.
 
-groups
-groups
+"groups"
 
 Displays the groups assigned to the current user.
 
-Risky Permissions
+# Risky Permissions
 chmod 777 risky.txt
 
 This permission is dangerous because everyone can:
 
-read;
-write;
-execute the file.
+- read;
+- write;
+- execute the file.
 
 Potential risks include:
 
