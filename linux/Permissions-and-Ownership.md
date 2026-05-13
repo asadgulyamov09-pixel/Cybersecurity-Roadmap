@@ -48,7 +48,7 @@ This permission is dangerous because everyone can:
 - Secure Permissions
 - chmod 600 secure.txt
 
-_This is safer because only the owner can:
+This is safer because only the owner can:
 
 - read;
 - write.
