@@ -23,7 +23,7 @@ who can access what
 - groups.
 
 # Users and Groups
-whoami
+"whoami"
 
 - Displays the current user.
 
@@ -40,17 +40,17 @@ This permission is dangerous because everyone can:
 - write;
 - execute the file.
 
-Potential risks include:
+# Potential risks include:
 
-unauthorized modification;
-malware execution;
-privilege abuse.
-Secure Permissions
-chmod 600 secure.txt
+- unauthorized modification;
+- malware execution;
+- privilege abuse.
+- Secure Permissions
+- chmod 600 secure.txt
 
-This is safer because only the owner can:
+_This is safer because only the owner can:
 
-read;
-write.
+- read;
+- write.
 
-This helps protect sensitive data and reduce unauthorized access.
+"This helps protect sensitive data and reduce unauthorized access."
