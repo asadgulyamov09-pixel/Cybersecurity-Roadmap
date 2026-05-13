@@ -118,3 +118,25 @@ compliance.
 Logging is not only a technical feature.
 
 It is a critical security and compliance control that helps organizations reduce business risks.
+
+---
+
+# Monitoring vs Detection
+
+Monitoring is (watching activities). 
+Usually SOC analysts do monitoring, and use monitoring tools like wireshark, and commands such as journalcts.
+
+Detection is (finding suspicios activity)
+Detection is when SOC analyst, GRC specialyst or another cyberguy detects something interesting, for example: failed logins.
+
+---
+
+# Audit evidence 
+In cybersecurity and GRC, logs may become:
+ audit evidence
+
+ They help prove:
+ monitoring exists
+ security controls are active
+ incidents can be investigated
+ 
