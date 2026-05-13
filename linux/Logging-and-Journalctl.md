@@ -136,7 +136,7 @@ In cybersecurity and GRC, logs may become:
  audit evidence
 
  They help prove:
- monitoring exists
- security controls are active
- incidents can be investigated
+ monitoring exists:
+ security controls are active:
+ incidents can be investigated:
  
