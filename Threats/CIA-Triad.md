@@ -48,3 +48,4 @@
 
 # CIA Triad is not just definitions, it is a security mindset.
 
+![TABLE](../screens/Снимок экрана 2026-05-15 142227.png)
