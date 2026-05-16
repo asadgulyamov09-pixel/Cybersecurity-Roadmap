@@ -51,3 +51,14 @@ What can happens?
 
 Business impact!!!
 ![Busines impact](../screens/business.png)
+
+---
+
+# 🛡 CONTROLS AGAINST PHISHING
+|Control|Purpose|
+|---|---|
+|MFA|harder to abuse stolen passwords|
+|awareness training|users recognize phishing|
+|email filtering|blocks malicious emails|
+|strong passwords|reduce account compromise|
+|HTTPS/TLS|protects communication|
