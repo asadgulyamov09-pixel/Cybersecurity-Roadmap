@@ -50,3 +50,4 @@ What can happens?
 - finantial theft
 
 Business impact!!!
+![Busines impact](../screens/business.png)
