@@ -145,5 +145,4 @@ It is also about protecting business continuity and keeping operations running d
 ---
 
 # Screenshots
-
-(Add screenshots below)
+(../screens/ransomware.png)
