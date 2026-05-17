@@ -144,5 +144,5 @@ It is also about protecting business continuity and keeping operations running d
 
 ---
 
-# Screenshots
+# Screenshot
 ![ransomware](../screens/ransomware.png)
