@@ -140,3 +140,4 @@ When systems become unavailable, organizations may lose:
 
 # Screenshots
 
+![DDoS](../screens/DDoS.png)
