@@ -1,1 +1,114 @@
+# Python Day 2
+
+## Overview
+
+Today I continued learning Python fundamentals while reviewing cybersecurity topics from my first month of study.
+
+---
+
+# Topics Learned
+
+## Variables Review
+
+I reviewed how variables store data in Python.
+
+Examples:
+
+* strings (str)
+* integers (int)
+* floating-point numbers (float)
+
+Example:
+
+```python
+name = "Asad"
+age = 16
+```
+
+---
+
+## User Input
+
+I reviewed the input() function and learned how Python accepts user input.
+
+Example:
+
+```python
+name = input("What is your name? ")
+print(name)
+```
+
+---
+
+## Basic Math Operations
+
+Today I learned how Python performs mathematical operations.
+
+Examples:
+
+```python
+print(5 + 3)
+print(10 - 2)
+print(4 * 5)
+print(20 / 4)
+```
+
+Operations learned:
+
+* Addition (+)
+* Subtraction (-)
+* Multiplication (*)
+* Division (/)
+
+---
+
+## Integer Conversion
+
+I learned that input() returns text by default.
+
+To work with numbers, input must be converted using int().
+
+Example:
+
+```python
+age = int(input("Age: "))
+print(age + 1)
+```
+
+---
+
+# Mini Project
+
+I created a simple age calculator.
+
+Example:
+
+```python
+age = int(input("How old are you? "))
+print("Next year you will be", age + 1)
+```
+
+---
+
+# Cybersecurity Review
+
+In addition to Python, I reviewed cybersecurity concepts from Month 1:
+
+* OSI Model
+* TCP/IP
+* DNS
+* Linux Permissions
+* Phishing
+* DDoS
+* AWS Basics
+* IAM
+* Cloud Governance
+
+---
+
+# Main Lesson
+
+Python is becoming a useful tool for automation and cybersecurity tasks.
+
+Understanding variables, user input, and number handling is the foundation for building more advanced programs.
 
